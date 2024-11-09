@@ -1,26 +1,26 @@
 			
 			
-		    =============================================================
-			=					  OverTheWire							=				
-			=						bandit 								=
-			=			https://overthewire.org/wargames/bandit/		=
-			=============================================================
+		=============================================================
+		=	        OverTheWire				    =				
+		=		  bandit 	    			    =
+		=	https://overthewire.org/wargames/bandit/	    =
+		=============================================================
 
 
 
-			=============================================================
-			=					  SSH Information						=			
-			=			Host: bandit.labs.overthewire.org  				=
-			=			Port: 2220 			    						=
-			=============================================================
+		=============================================================
+		=			SSH Information			    =			
+		=	Host: bandit.labs.overthewire.org  	            =
+		=	Port: 2220 			    		    =
+		=============================================================
 
 
-			-------------------------------------------------------------  
-			- 				           SSH Login  						-
-			-       ssh username@URL -p Port 							-
-			-       ssh username@IP_address -p Port 					-
-			-       ssh username@IP_address -p Port -i Private_key 		-
-			-------------------------------------------------------------
+		-------------------------------------------------------------  
+		- 		          SSH Login  		            -
+		-       ssh username@URL -p Port 		            -
+		-       ssh username@IP_address -p Port 		    -
+		-       ssh username@IP_address -p Port -i Private_key 	    -
+		-------------------------------------------------------------
 
 
 ## level 0 --> level 1
