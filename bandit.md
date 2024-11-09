@@ -172,7 +172,7 @@
 	RSA Private key is provided
 	
 ## level 17 --> level 18
-	pass no pass-- using private key
+	pass no pass-- use private key
 	user bandit17
 	flag x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO  
 
